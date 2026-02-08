@@ -1,0 +1,3 @@
+# YOLO weights (large files)
+*.weights
+*.pt
